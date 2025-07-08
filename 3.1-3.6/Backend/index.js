@@ -14,7 +14,7 @@ const logBody = (tokens, req, res) =>{
 }
 app.use(express.json())
 app.use(morgan(logBody))
-app.use(cors())
+app.use(express.static('../Frontend/dist'))
 
 const persons = [
     {
