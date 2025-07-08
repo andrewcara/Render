@@ -1,0 +1,49 @@
+{
+  "persons": [
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "id": "64f0",
+      "name": "New User",
+      "number": "35467568"
+    },
+    {
+      "id": "bc40",
+      "name": "Second Test User",
+      "number": "546758679"
+    },
+    {
+      "id": "9bad",
+      "name": "Created User",
+      "number": "345678"
+    },
+    {
+      "id": "03b6",
+      "name": "Another User for Testing",
+      "number": "32144435"
+    },
+    {
+      "id": "2c61",
+      "name": "Testing user with proper id",
+      "number": "e3432554"
+    },
+    {
+      "id": "bd82",
+      "name": "testing with response",
+      "number": "423234"
+    },
+    {
+      "id": "46fe",
+      "name": "another test",
+      "number": "4324342"
+    },
+    {
+      "id": "1914",
+      "name": "here is one mor",
+      "number": "1"
+    }
+  ]
+}
